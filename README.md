@@ -1,2 +1,2 @@
-# elahurd925.github.io
+# Evan LaHurd
 Personal site
